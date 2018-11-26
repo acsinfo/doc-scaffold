@@ -2,7 +2,7 @@
 permalink: /:title
 exclude: [".ruby-version", "Gemfile", "Gemfile.lock", "README.md", "CONTRIBUTING.md"]
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Title
 name: PROJECT NAME
